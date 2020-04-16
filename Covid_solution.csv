@@ -1,0 +1,1066 @@
+Age Bracket,Gender,Detected City,Detected State,State code,Cold,Cough,Fever,Tiredness,Breathing Problems,Result
+,nan,nan,delhi,dl,0,1,0,1,1,1
+nan,nan,kalyan-dombivali,maharashtra,mh,0,0,1,1,1,1
+nan,f,nan,tamil nadu,tn,1,1,1,0,1,1
+nan,m,nan,tamil nadu,tn,1,1,1,0,0,1
+nan,m,nan,tamil nadu,tn,1,1,0,1,1,1
+nan,nan,nan,gujarat,gj,1,0,1,1,1,1
+nan,nan,nan,madhya pradesh,mp,0,1,1,0,1,1
+nan,nan,nan,jharkhand,jh,1,1,1,1,1,1
+nan,nan,nan,rajasthan,rj,0,1,0,1,1,1
+nan,nan,nan,delhi,dl,1,1,1,0,1,1
+nan,nan,nan,uttar pradesh,up,0,1,1,0,1,1
+nan,nan,nan,rajasthan,rj,0,1,1,0,1,1
+nan,nan,nan,maharashtra,mh,0,1,1,0,1,1
+nan,nan,nan,maharashtra,mh,1,1,1,0,1,1
+nan,nan,nan,maharashtra,mh,0,1,1,0,1,1
+nan,nan,nan,tamil nadu,tn,1,1,1,1,1,1
+nan,nan,nan,madhya pradesh,mp,0,1,1,0,1,1
+nan,nan,malegaon,maharashtra,mh,0,1,1,0,1,1
+nan,nan,nan,telangana,tg,1,0,1,1,1,1
+nan,nan,nan,rajasthan,rj,0,0,1,1,1,1
+nan,nan,nan,madhya pradesh,mp,0,1,1,0,1,1
+35,m,nan,kerala,kl,0,1,1,0,1,1
+60,m,garhshankar,punjab,pb,0,1,1,0,1,1
+nan,nan,nan,andhra pradesh,ap,0,1,1,1,1,1
+nan,m,nizamuddin area,delhi,dl,0,1,1,0,1,1
+55,f,saidapet,tamil nadu,tn,0,1,0,1,1,1
+nan,nan,nan,kerala,kl,1,1,1,1,1,1
+nan,nan,nan,maharashtra,mh,1,1,1,0,0,1
+nan,f,nan,tamil nadu,tn,1,1,0,1,1,1
+29,f,gurugram,haryana,hr,0,0,1,1,1,1
+nan,nan,nan,kerala,kl,0,1,1,0,1,1
+nan,nan,nan,rajasthan,rj,1,1,1,0,0,1
+nan,nan,nan,delhi,dl,1,1,1,0,1,1
+nan,nan,nan,madhya pradesh,mp,1,0,0,1,1,1
+22,f,rana pratap bagh,delhi,dl,0,1,0,1,1,1
+nan,nan,nan,uttar pradesh,up,0,1,1,0,1,1
+nan,nan,nan,uttar pradesh,up,1,1,1,0,0,1
+nan,nan,nan,uttar pradesh,up,0,1,1,0,1,1
+nan,nan,nan,telangana,tg,1,1,1,0,1,1
+nan,nan,nan,delhi,dl,0,1,1,0,1,1
+nan,m,nan,tamil nadu,tn,0,1,1,1,1,1
+nan,nan,nan,andhra pradesh,ap,0,1,1,0,1,1
+nan,nan,nan,delhi,dl,0,1,1,0,1,1
+nan,m,nan,tamil nadu,tn,1,1,1,0,1,1
+nan,nan,nan,delhi,dl,1,1,1,0,1,1
+nan,nan,nan,madhya pradesh,mp,1,1,1,1,1,1
+nan,nan,nan,uttar pradesh,up,1,1,1,0,1,1
+nan,nan,nan,madhya pradesh,mp,1,1,1,0,1,1
+nan,m,nan,gujarat,gj,0,1,1,0,1,1
+nan,nan,nan,rajasthan,rj,1,1,1,0,1,1
+30,f,ahmadabad,gujarat,gj,1,1,1,1,1,1
+nan,nan,nan,jammu and kashmir,jk,0,1,1,0,1,1
+nan,nan,nan,gujarat,gj,1,1,1,0,1,1
+nan,nan,nan,maharashtra,mh,1,1,1,0,1,1
+nan,nan,nan,delhi,dl,0,0,1,1,1,1
+42,f,nan,gujarat,gj,0,1,1,0,1,1
+nan,nan,nan,maharashtra,mh,1,1,1,1,1,1
+nan,nan,nan,rajasthan,rj,0,1,1,0,1,1
+nan,nan,nan,uttar pradesh,up,0,1,1,0,1,1
+44,f,nan,tamil nadu,tn,1,1,1,0,0,1
+nan,nan,nan,maharashtra,mh,1,1,0,1,1,1
+nan,nan,nan,gujarat,gj,0,1,1,1,1,1
+nan,nan,nan,uttar pradesh,up,1,1,1,1,1,1
+nan,m,nan,tamil nadu,tn,0,1,1,0,1,1
+nan,f,nan,tamil nadu,tn,0,1,1,1,1,1
+nan,nan,nan,maharashtra,mh,1,1,1,0,1,1
+nan,nan,nan,rajasthan,rj,1,1,1,1,1,1
+nan,nan,nan,telangana,tg,1,1,1,0,1,1
+nan,nan,nan,maharashtra,mh,0,1,1,1,1,1
+nan,nan,nan,uttar pradesh,up,1,1,1,1,1,1
+nan,nan,nan,kerala,kl,1,1,1,0,1,1
+nan,nan,nan,rajasthan,rj,1,1,0,1,1,1
+nan,nan,nan,uttar pradesh,up,0,1,0,1,1,1
+21,m,nan,andhra pradesh,ap,0,1,1,0,1,1
+47,m,vadodara,gujarat,gj,1,1,1,1,1,1
+nan,nan,nan,uttar pradesh,up,0,1,1,0,1,1
+nan,m,nan,tamil nadu,tn,1,0,0,1,1,1
+nan,nan,nan,delhi,dl,1,1,1,0,0,1
+23,m,rajnandgaon,chhattisgarh,ct,1,0,1,1,1,1
+nan,nan,nan,delhi,dl,1,0,0,1,1,1
+nan,nan,nan,tamil nadu,tn,0,1,1,0,1,1
+nan,nan,nan,tamil nadu,tn,0,1,1,1,1,1
+nan,nan,nan,tamil nadu,tn,1,1,1,0,1,1
+nan,nan,nan,delhi,dl,1,1,1,1,1,1
+nan,nan,nan,telangana,tg,1,1,0,1,1,1
+nan,nan,nan,haryana,hr,1,0,1,1,1,1
+nan,nan,nan,jammu and kashmir,jk,1,1,0,1,1,1
+nan,nan,nan,rajasthan,rj,1,1,1,0,1,1
+nan,m,nan,tamil nadu,tn,0,1,1,0,1,1
+nan,nan,nan,maharashtra,mh,0,0,1,1,1,1
+18,m,chennai,tamil nadu,tn,0,1,1,0,1,1
+nan,nan,nan,telangana,tg,1,0,0,1,1,1
+nan,nan,nan,delhi,dl,0,1,1,0,1,1
+22,m,nan,kerala,kl,0,1,1,0,1,1
+nan,nan,nan,telangana,tg,0,1,1,0,1,1
+25,f,nan,nan,nan,1,0,0,0,0,0
+nan,nan,nan,delhi,dl,1,1,1,0,1,1
+nan,nan,nan,delhi,dl,0,1,1,1,1,1
+nan,m,nan,tamil nadu,tn,1,0,0,1,1,1
+nan,nan,nan,gujarat,gj,1,1,1,0,1,1
+24,m,nan,nan,nan,0,0,1,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,0,1,0,0,0,0
+25,f,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,0,0,1,0,0,0
+24,m,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,0,0,1,0,0,0
+25,f,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,0,0,1,1,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+24,m,nan,nan,nan,1,0,0,1,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+24,m,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,0,0,1,0,0,0
+24,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,0,1,1,0,0
+24,m,nan,nan,nan,1,0,0,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,1,0,0,0,0
+24,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,0,1,0,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,0,1,0,0,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,0,1,0,0,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+27,m,nan,nan,nan,0,1,0,1,0,0
+25,f,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,1,0,0
+25,f,nan,nan,nan,0,1,0,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,1,0,0
+21,m,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,0,0,1,1,0,0
+24,m,nan,nan,nan,0,0,1,0,0,0
+24,m,nan,nan,nan,0,1,0,0,0,0
+25,f,nan,nan,nan,1,0,0,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,1,0,0
+25,f,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,0,0,1,1,0,0
+21,m,nan,nan,nan,0,0,1,0,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,0,1,0,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+24,m,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,1,0,0,1,0,0
+21,m,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,1,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,1,0,0,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,0,1,0,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,0,1,0,0,0
+25,f,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,1,0,0,1,0,0
+25,f,nan,nan,nan,0,1,0,1,0,0
+24,m,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,0,1,0,1,0,0
+24,m,nan,nan,nan,0,0,1,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,1,0,0,1,0,0
+25,f,nan,nan,nan,1,0,0,1,0,0
+24,m,nan,nan,nan,0,0,1,0,0,0
+25,f,nan,nan,nan,0,1,0,1,0,0
+24,m,nan,nan,nan,0,0,1,0,0,0
+24,m,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,1,0,1,0,0
+24,m,nan,nan,nan,1,0,0,1,0,0
+24,m,nan,nan,nan,0,0,1,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,0,1,0,0,0,0
+25,f,nan,nan,nan,0,0,1,1,0,0
+24,m,nan,nan,nan,0,0,1,1,0,0
+25,f,nan,nan,nan,1,0,0,1,0,0
+21,m,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+24,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,1,0,0,0,0
+24,m,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,1,0,0,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,1,0,0,0,0
+24,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,1,0,0,0,0
+25,f,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,0,0,1,0,0,0
+24,m,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,0,0,1,0,0,0
+25,f,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,0,0,1,1,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+24,m,nan,nan,nan,1,0,0,1,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+24,m,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,0,0,1,0,0,0
+24,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,0,1,1,0,0
+24,m,nan,nan,nan,1,0,0,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,1,0,0,0,0
+24,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,0,1,0,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,0,1,0,0,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,0,1,0,0,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+27,m,nan,nan,nan,0,1,0,1,0,0
+25,f,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,1,0,0
+25,f,nan,nan,nan,0,1,0,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,1,0,0
+21,m,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,0,0,1,1,0,0
+24,m,nan,nan,nan,0,0,1,0,0,0
+24,m,nan,nan,nan,0,1,0,0,0,0
+25,f,nan,nan,nan,1,0,0,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,1,0,0
+25,f,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,0,0,1,1,0,0
+21,m,nan,nan,nan,0,0,1,0,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,0,1,0,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+24,m,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,1,0,0,1,0,0
+21,m,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,1,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,1,0,0,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,0,1,0,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,0,1,0,0,0
+25,f,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,1,0,0,1,0,0
+25,f,nan,nan,nan,0,1,0,1,0,0
+24,m,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,0,1,0,1,0,0
+24,m,nan,nan,nan,0,0,1,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,1,0,0,1,0,0
+25,f,nan,nan,nan,1,0,0,1,0,0
+24,m,nan,nan,nan,0,0,1,0,0,0
+25,f,nan,nan,nan,0,1,0,1,0,0
+24,m,nan,nan,nan,0,0,1,0,0,0
+24,m,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,1,0,1,0,0
+24,m,nan,nan,nan,1,0,0,1,0,0
+24,m,nan,nan,nan,0,0,1,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,0,1,0,0,0,0
+25,f,nan,nan,nan,0,0,1,1,0,0
+24,m,nan,nan,nan,0,0,1,1,0,0
+25,f,nan,nan,nan,1,0,0,1,0,0
+21,m,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+24,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,1,0,0,0,0
+24,m,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,1,0,0,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,1,0,0,0,0
+24,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,1,0,0,0,0
+25,f,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,0,0,1,0,0,0
+24,m,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,0,0,1,0,0,0
+25,f,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,0,0,1,1,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+24,m,nan,nan,nan,1,0,0,1,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+24,m,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,0,0,1,0,0,0
+24,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,0,1,1,0,0
+24,m,nan,nan,nan,1,0,0,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,1,0,0,0,0
+24,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,0,1,0,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,0,1,0,0,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,0,1,0,0,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+27,m,nan,nan,nan,0,1,0,1,0,0
+25,f,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,1,0,0
+25,f,nan,nan,nan,0,1,0,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,1,0,0
+21,m,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,0,0,1,1,0,0
+24,m,nan,nan,nan,0,0,1,0,0,0
+24,m,nan,nan,nan,0,1,0,0,0,0
+25,f,nan,nan,nan,1,0,0,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,1,0,0
+25,f,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,0,0,1,1,0,0
+21,m,nan,nan,nan,0,0,1,0,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,0,1,0,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+24,m,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,1,0,0,1,0,0
+21,m,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,1,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,1,0,0,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,0,1,0,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,0,1,0,0,0
+25,f,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,1,0,0,1,0,0
+25,f,nan,nan,nan,0,1,0,1,0,0
+24,m,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,0,1,0,1,0,0
+24,m,nan,nan,nan,0,0,1,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,1,0,0,1,0,0
+25,f,nan,nan,nan,1,0,0,1,0,0
+24,m,nan,nan,nan,0,0,1,0,0,0
+25,f,nan,nan,nan,0,1,0,1,0,0
+24,m,nan,nan,nan,0,0,1,0,0,0
+24,m,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,1,0,1,0,0
+24,m,nan,nan,nan,1,0,0,1,0,0
+24,m,nan,nan,nan,0,0,1,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,0,1,0,0,0,0
+25,f,nan,nan,nan,0,0,1,1,0,0
+24,m,nan,nan,nan,0,0,1,1,0,0
+25,f,nan,nan,nan,1,0,0,1,0,0
+21,m,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+24,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,1,0,0,0,0
+24,m,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,1,0,0,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,1,0,0,0,0
+24,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,1,0,0,0,0
+25,f,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,0,0,1,0,0,0
+24,m,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,0,0,1,0,0,0
+25,f,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,0,0,1,1,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+24,m,nan,nan,nan,1,0,0,1,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+24,m,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,0,0,1,0,0,0
+24,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,0,1,1,0,0
+24,m,nan,nan,nan,1,0,0,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,1,0,0,0,0
+24,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,0,1,0,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,0,1,0,0,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,0,1,0,0,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+27,m,nan,nan,nan,0,1,0,1,0,0
+25,f,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,1,0,0
+25,f,nan,nan,nan,0,1,0,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,1,0,0
+21,m,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,0,0,1,1,0,0
+24,m,nan,nan,nan,0,0,1,0,0,0
+24,m,nan,nan,nan,0,1,0,0,0,0
+25,f,nan,nan,nan,1,0,0,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,1,0,0
+25,f,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,0,0,1,1,0,0
+21,m,nan,nan,nan,0,0,1,0,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,0,1,0,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+24,m,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,1,0,0,1,0,0
+21,m,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,1,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,1,0,0,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,0,1,0,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,0,1,0,0,0
+25,f,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,1,0,0,1,0,0
+25,f,nan,nan,nan,0,1,0,1,0,0
+24,m,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,0,1,0,1,0,0
+24,m,nan,nan,nan,0,0,1,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,1,0,0,1,0,0
+25,f,nan,nan,nan,1,0,0,1,0,0
+24,m,nan,nan,nan,0,0,1,0,0,0
+25,f,nan,nan,nan,0,1,0,1,0,0
+24,m,nan,nan,nan,0,0,1,0,0,0
+24,m,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,1,0,1,0,0
+24,m,nan,nan,nan,1,0,0,1,0,0
+24,m,nan,nan,nan,0,0,1,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,0,1,0,0,0,0
+25,f,nan,nan,nan,0,0,1,1,0,0
+24,m,nan,nan,nan,0,0,1,1,0,0
+25,f,nan,nan,nan,1,0,0,1,0,0
+21,m,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+24,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,1,0,0,0,0
+24,m,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+25,f,nan,nan,nan,0,1,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,1,0,0,1,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,1,0,0,0,0
+24,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+24,m,nan,nan,nan,0,0,1,0,0,0
+21,m,nan,nan,nan,1,0,0,0,0,0
+21,m,nan,nan,nan,0,1,0,0,0,0
+57,m,nan,karnataka,ka,0,0,1,1,1,1
+nan,nan,nan,maharashtra,mh,1,1,1,0,1,1
+nan,nan,nan,rajasthan,rj,1,1,1,0,0,1
+nan,nan,nan,delhi,dl,0,1,0,1,1,1
+nan,m,nan,gujarat,gj,1,1,1,1,1,1
+nan,nan,nan,maharashtra,mh,1,1,0,1,1,1
+nan,nan,nan,assam,as,0,1,0,1,1,1
+nan,nan,nan,rajasthan,rj,1,1,1,0,1,1
+nan,nan,nan,madhya pradesh,mp,0,1,1,0,1,1
+nan,nan,nan,rajasthan,rj,1,1,1,0,1,1
+nan,nan,nan,telangana,tg,1,1,1,0,1,1
+nan,nan,nan,delhi,dl,1,1,1,0,1,1
+nan,nan,nan,rajasthan,rj,0,0,1,1,1,1
+nan,nan,nan,andhra pradesh,ap,1,0,1,1,1,1
+nan,nan,nan,maharashtra,mh,1,1,1,0,0,1
+nan,nan,nan,telangana,tg,0,1,1,1,1,1
+nan,nan,nan,maharashtra,mh,0,1,1,1,1,1
+nan,nan,nan,maharashtra,mh,1,1,1,0,1,1
+nan,nan,nan,maharashtra,mh,0,1,1,0,1,1
+55,nan,gurugram,haryana,hr,1,0,0,1,1,1
+nan,nan,nan,delhi,dl,0,1,1,0,1,1
+nan,nan,nan,maharashtra,mh,1,1,1,0,1,1
+nan,nan,nan,telangana,tg,0,1,1,1,1,1
+nan,nan,nan,west bengal,wb,0,0,1,1,1,1
+nan,m,nan,tamil nadu,tn,1,1,1,1,1,1
+nan,nan,nan,uttar pradesh,up,0,1,1,1,1,1
+43,m,gani gali street,andhra pradesh,ap,1,1,1,1,1,1
+nan,nan,nan,maharashtra,mh,1,1,1,0,0,1
+40,m,nan,karnataka,ka,1,0,1,1,1,1
+58,m,north delhi,delhi,dl,1,0,0,1,1,1
+nan,m,nan,tamil nadu,tn,1,1,1,0,1,1
+nan,nan,nan,maharashtra,mh,1,0,0,1,1,1
+16,m,nan,bihar,br,0,1,1,1,1,1
+nan,nan,nan,maharashtra,mh,0,1,1,1,1,1
+nan,nan,nan,rajasthan,rj,0,1,1,0,1,1
+nan,nan,nan,maharashtra,mh,1,1,1,0,1,1
+nan,nan,nan,uttar pradesh,up,1,0,0,1,1,1
+30,f,jhunjhunu,rajasthan,rj,1,1,1,0,1,1
+nan,nan,nan,maharashtra,mh,1,1,1,0,1,1
+nan,nan,nan,rajasthan,rj,1,1,0,1,1,1
+nan,f,sangli,maharashtra,mh,0,1,0,1,1,1
+nan,nan,nan,telangana,tg,1,1,1,0,1,1
+nan,nan,nan,punjab,pb,1,1,1,0,0,1
+nan,nan,nan,madhya pradesh,mp,0,1,1,1,1,1
+nan,nan,nan,maharashtra,mh,0,1,0,1,1,1
+nan,nan,nan,arunachal pradesh,ar,0,0,1,1,1,1
+nan,nan,nan,maharashtra,mh,1,1,1,0,1,1
+nan,nan,nan,maharashtra,mh,1,1,1,1,1,1
+nan,m,nan,tamil nadu,tn,1,1,1,0,1,1
+nan,f,nan,tamil nadu,tn,1,1,1,0,1,1
+nan,nan,nan,maharashtra,mh,0,1,1,1,1,1
+nan,nan,mira-bhayandar,maharashtra,mh,0,1,1,0,1,1
+nan,nan,nan,delhi,dl,1,1,1,1,1,1
+nan,m,nan,madhya pradesh,mp,1,1,1,0,1,1
+nan,nan,nan,rajasthan,rj,0,1,1,0,1,1
+45,f,nan,bihar,br,0,1,1,0,1,1
+nan,nan,nan,madhya pradesh,mp,1,1,1,0,1,1
+nan,nan,nan,maharashtra,mh,0,1,1,0,1,1
+nan,nan,nan,delhi,dl,0,1,0,1,1,1
+nan,m,nan,tamil nadu,tn,0,1,1,0,1,1
+nan,m,nizamuddin area,delhi,dl,1,0,1,1,1,1
+nan,nan,nan,andhra pradesh,ap,0,1,1,0,1,1
+nan,nan,nan,gujarat,gj,1,0,1,1,1,1
+nan,nan,nan,madhya pradesh,mp,0,1,1,0,1,1
+37,m,mettupalayam,tamil nadu,tn,1,1,1,0,0,1
+nan,nan,nan,delhi,dl,0,0,1,1,1,1
+nan,nan,nan,andhra pradesh,ap,1,1,1,0,1,1
+nan,m,nan,gujarat,gj,0,1,1,1,1,1
+nan,nan,nan,kerala,kl,1,0,0,1,1,1
+nan,m,nizamuddin area,delhi,dl,0,1,1,1,1,1
+nan,nan,nan,madhya pradesh,mp,1,0,0,1,1,1
+32,m,west delhi,delhi,dl,1,1,1,0,1,1
+nan,nan,nan,andhra pradesh,ap,1,1,1,0,1,1
+nan,nan,nan,delhi,dl,0,0,1,1,1,1
+nan,nan,nan,andhra pradesh,ap,1,1,1,0,1,1
+nan,nan,nan,kerala,kl,0,1,1,1,1,1
+nan,nan,nan,delhi,dl,1,1,1,0,1,1
+nan,nan,nan,maharashtra,mh,1,1,1,1,1,1
+nan,m,nan,tamil nadu,tn,0,1,1,0,1,1
+nan,m,nan,gujarat,gj,1,1,0,1,1,1
+nan,nan,nan,maharashtra,mh,0,1,1,1,1,1
+nan,nan,nan,jammu and kashmir,jk,1,1,1,0,1,1
+nan,nan,nan,rajasthan,rj,0,1,1,1,1,1
+nan,nan,nan,west bengal,wb,1,1,1,0,1,1
+nan,nan,nan,telangana,tg,1,1,1,0,0,1
+nan,nan,nan,delhi,dl,0,1,1,0,1,1
+nan,nan,nan,telangana,tg,0,1,1,0,1,1
+nan,m,nizamuddin area,delhi,dl,1,1,0,1,1,1
+nan,nan,nan,telangana,tg,1,1,1,1,1,1
+nan,m,nan,maharashtra,mh,0,1,1,0,1,1
+nan,nan,nan,gujarat,gj,0,1,1,1,1,1
+nan,nan,nan,haryana,hr,1,1,1,0,1,1
+40,m,nan,gujarat,gj,1,1,0,1,1,1
+nan,nan,kalyan-dombivali,maharashtra,mh,1,1,1,1,1,1
+nan,nan,nan,maharashtra,mh,0,1,0,1,1,1
+nan,m,delhi,delhi,dl,0,1,1,1,1,1
+21,f,surat,gujarat,gj,0,1,1,0,1,1
+nan,nan,nan,kerala,kl,1,0,0,1,1,1
+nan,f,nan,tamil nadu,tn,1,1,1,0,1,1
+nan,nan,bhubaneswar,odisha,or,0,1,1,0,1,1
+nan,nan,nan,maharashtra,mh,1,1,1,0,1,1
+nan,nan,nan,gujarat,gj,1,1,1,0,1,1
+nan,nan,nan,telangana,tg,0,1,1,0,1,1
+nan,nan,nan,delhi,dl,1,1,1,0,1,1
+50,m,nan,andhra pradesh,ap,1,1,1,0,0,1
+nan,nan,nan,gujarat,gj,0,1,1,0,1,1
+nan,nan,mumbai,maharashtra,mh,0,1,1,1,1,1
+nan,m,nan,tamil nadu,tn,1,1,1,0,1,1
+nan,nan,nan,maharashtra,mh,1,1,1,0,1,1
+nan,nan,nan,rajasthan,rj,1,1,1,0,1,1
+nan,nan,nan,madhya pradesh,mp,1,1,1,1,1,1
+nan,nan,nan,gujarat,gj,0,1,1,1,1,1
+nan,nan,nan,rajasthan,rj,1,0,0,1,1,1
+35,nan,nan,kerala,kl,0,1,1,0,1,1
+nan,nan,nan,delhi,dl,1,1,1,0,1,1
+nan,nan,mira-bhayandar,maharashtra,mh,0,1,1,0,1,1
+16,f,nan,bihar,br,1,0,0,1,1,1
+nan,nan,nan,jammu and kashmir,jk,0,1,0,1,1,1
+nan,nan,nan,madhya pradesh,mp,0,1,1,1,1,1
+nan,m,nan,tamil nadu,tn,0,1,0,1,1,1
+nan,m,nan,tamil nadu,tn,1,1,1,0,0,1
+nan,f,nan,tamil nadu,tn,0,0,1,1,1,1
+nan,nan,nan,uttar pradesh,up,1,1,1,0,0,1
+20,f,nan,andhra pradesh,ap,0,1,1,1,1,1
+nan,nan,nan,gujarat,gj,1,1,1,0,1,1
+nan,m,perundurai,tamil nadu,tn,0,0,1,1,1,1
+38,m,nan,uttar pradesh,up,0,1,1,1,1,1
+nan,nan,nan,uttar pradesh,up,0,1,1,1,1,1
+51,f,nan,tamil nadu,tn,1,0,1,1,1,1
+nan,nan,nan,bihar,br,1,1,1,0,1,1
+nan,nan,nan,delhi,dl,1,1,1,0,1,1
+21,m,nan,chhattisgarh,ct,0,0,1,1,1,1
+nan,f,nan,gujarat,gj,0,0,1,1,1,1
+nan,nan,navi mumbai,maharashtra,mh,0,1,1,1,1,1
+nan,nan,nan,maharashtra,mh,0,1,1,0,1,1
+nan,nan,nan,uttarakhand,ut,0,1,1,0,1,1
+nan,nan,nan,gujarat,gj,0,1,1,0,1,1
+nan,nan,nan,delhi,dl,1,1,1,0,1,1
+nan,nan,nan,telangana,tg,1,1,1,0,0,1
+nan,nan,nan,jammu and kashmir,jk,0,1,1,1,1,1
+57,m,nan,west bengal,wb,1,1,1,0,0,1
+nan,nan,nan,telangana,tg,1,1,1,0,1,1
+nan,nan,nan,maharashtra,mh,0,1,1,1,1,1
+nan,nan,nan,rajasthan,rj,1,1,1,0,0,1
+nan,nan,nan,tamil nadu,tn,0,1,1,1,1,1
+nan,nan,nan,rajasthan,rj,1,0,1,1,1,1
+nan,f,nan,tamil nadu,tn,0,1,1,0,1,1
+nan,m,nan,gujarat,gj,0,0,1,1,1,1
+nan,nan,nan,kerala,kl,1,0,0,1,1,1
+nan,nan,nan,rajasthan,rj,0,1,1,0,1,1
+3,m,kannur,kerala,kl,1,1,1,0,1,1
+nan,nan,nan,uttar pradesh,up,1,0,1,1,1,1
+nan,nan,nan,maharashtra,mh,1,1,0,1,1,1
+nan,nan,nan,maharashtra,mh,1,0,1,1,1,1
+nan,nan,nan,delhi,dl,1,1,1,0,1,1
+54,m,ranni,kerala,kl,1,0,1,1,1,1
+nan,nan,nan,punjab,pb,0,1,1,1,1,1
+nan,m,nan,tamil nadu,tn,1,1,1,0,1,1
+40,m,chinnamanur,tamil nadu,tn,1,1,1,0,1,1
+nan,m,nan,tamil nadu,tn,1,1,1,1,1,1
+50,nan,nan,kerala,kl,1,1,1,1,1,1
+nan,nan,nan,telangana,tg,0,1,0,1,1,1
+nan,nan,nan,andhra pradesh,ap,1,1,0,1,1,1
+nan,nan,nan,delhi,dl,0,0,1,1,1,1
+nan,nan,malegaon,maharashtra,mh,0,1,1,0,1,1
+nan,nan,nan,west bengal,wb,0,1,1,0,1,1
+nan,nan,nan,telangana,tg,0,0,1,1,1,1
+nan,nan,nan,west bengal,wb,1,1,1,0,1,1
+nan,nan,nan,haryana,hr,1,1,1,0,1,1
+nan,nan,nan,delhi,dl,0,1,1,1,1,1
+nan,nan,mumbai,maharashtra,mh,1,1,1,0,1,1
+nan,nan,nan,west bengal,wb,0,1,1,0,1,1
+nan,nan,nan,maharashtra,mh,0,1,1,0,1,1
+nan,nan,nan,delhi,dl,0,1,1,0,1,1
+nan,nan,nan,tamil nadu,tn,0,1,0,1,1,1
+nan,nan,nan,jammu and kashmir,jk,0,1,1,1,1,1
+nan,nan,nan,uttar pradesh,up,1,1,1,1,1,1
+nan,nan,nan,uttar pradesh,up,0,1,1,0,1,1
+nan,nan,nan,punjab,pb,1,1,0,1,1,1
+nan,nan,nan,maharashtra,mh,1,1,1,0,1,1
+nan,nan,nan,delhi,dl,0,1,1,0,1,1
+nan,nan,nan,maharashtra,mh,0,0,1,1,1,1
+nan,nan,nan,delhi,dl,0,1,1,1,1,1
+nan,f,nan,tamil nadu,tn,1,1,1,0,1,1
+nan,m,nan,gujarat,gj,0,1,1,1,1,1
+nan,nan,nan,rajasthan,rj,0,1,1,0,1,1
+nan,nan,nan,tamil nadu,tn,1,1,0,1,1,1
+nan,nan,nan,maharashtra,mh,1,0,0,1,1,1
+nan,f,nan,tamil nadu,tn,0,1,1,0,1,1
+23,m,nan,chandigarh,ch,1,1,1,0,0,1
+nan,nan,nan,andhra pradesh,ap,1,1,1,1,1,1
+nan,nan,nan,maharashtra,mh,0,1,1,0,1,1
+nan,nan,nan,maharashtra,mh,0,1,1,1,1,1
+nan,nan,ottapalam,kerala,kl,0,1,1,0,1,1
+nan,m,nan,tamil nadu,tn,0,1,1,0,1,1
+nan,nan,nan,maharashtra,mh,0,1,1,1,1,1
+nan,nan,nan,delhi,dl,1,1,1,0,1,1
+nan,nan,nan,maharashtra,mh,1,1,0,1,1,1
+nan,nan,nan,maharashtra,mh,1,1,0,1,1,1
+nan,nan,nan,andhra pradesh,ap,0,1,1,0,1,1
+nan,nan,nan,andhra pradesh,ap,1,0,1,1,1,1
+42,m,nan,andhra pradesh,ap,1,0,0,1,1,1
+nan,nan,kashmir division,jammu and kashmir,jk,1,1,1,0,1,1
+nan,nan,nan,madhya pradesh,mp,1,1,0,1,1,1
+nan,nan,nan,delhi,dl,0,0,1,1,1,1
+11,m,nan,kerala,kl,0,1,1,1,1,1
+nan,nan,nan,kerala,kl,1,0,1,1,1,1
+nan,nan,nan,assam,as,0,0,1,1,1,1
+nan,nan,nan,madhya pradesh,mp,1,1,1,0,1,1
+nan,nan,ahmednagar,maharashtra,mh,0,1,1,0,1,1
+nan,m,nan,tamil nadu,tn,1,1,0,1,1,1
+nan,nan,nan,tamil nadu,tn,0,1,1,1,1,1
+nan,nan,nan,jammu and kashmir,jk,1,0,0,1,1,1
+32,m,mettupalayam,tamil nadu,tn,1,0,0,1,1,1
+nan,m,nan,gujarat,gj,1,1,1,1,1,1
+65,m,ahmadabad,gujarat,gj,0,1,1,0,1,1
+nan,nan,nan,maharashtra,mh,1,1,0,1,1,1
+nan,nan,nan,maharashtra,mh,1,0,0,1,1,1
+nan,nan,nan,kerala,kl,0,1,1,1,1,1
+nan,nan,nan,maharashtra,mh,0,1,1,0,1,1
+nan,nan,nan,west bengal,wb,0,1,1,0,1,1
+nan,f,sangli,maharashtra,mh,1,1,0,1,1,1
+32,m,nan,andhra pradesh,ap,0,1,1,0,1,1
+nan,nan,nan,telangana,tg,1,1,1,0,1,1
+53,m,nan,andhra pradesh,ap,1,1,1,0,1,1
+nan,nan,nan,maharashtra,mh,1,1,1,0,1,1
+nan,nan,nan,andhra pradesh,ap,1,0,1,1,1,1
+nan,nan,nan,maharashtra,mh,0,1,0,1,1,1
+nan,nan,nan,madhya pradesh,mp,0,1,0,1,1,1
+nan,nan,nan,west bengal,wb,1,0,0,1,1,1
+nan,nan,nan,delhi,dl,1,1,0,1,1,1
+nan,nan,nan,delhi,dl,0,1,1,0,1,1
+nan,nan,nan,maharashtra,mh,0,0,1,1,1,1
+nan,nan,nan,telangana,tg,0,1,1,1,1,1
+nan,nan,nan,uttar pradesh,up,0,1,1,0,1,1
+nan,nan,nan,delhi,dl,1,1,1,0,1,1
+nan,f,nan,tamil nadu,tn,1,1,1,0,1,1
+34,f,ahmedabad,gujarat,gj,0,1,1,0,1,1
+nan,nan,nan,rajasthan,rj,1,1,0,1,1,1
+nan,nan,nan,delhi,dl,1,1,1,0,1,1
+nan,nan,nan,delhi,dl,0,1,1,0,1,1
+nan,nan,nan,gujarat,gj,1,1,1,1,1,1
+nan,nan,nan,rajasthan,rj,1,1,1,0,1,1
+nan,nan,nan,maharashtra,mh,1,1,0,1,1,1
+nan,nan,mumbai,maharashtra,mh,1,1,0,1,1,1
+nan,nan,nan,uttar pradesh,up,0,1,1,0,1,1
+nan,nan,nan,maharashtra,mh,1,0,0,1,1,1
+nan,nan,nan,haryana,hr,0,1,1,0,1,1
+nan,nan,nan,maharashtra,mh,0,1,1,1,1,1
+nan,f,nan,tamil nadu,tn,1,1,1,1,1,1
+nan,nan,nan,kerala,kl,0,1,1,0,1,1
+40,f,nawanshahr,punjab,pb,0,1,1,0,1,1
+nan,nan,nan,telangana,tg,0,1,1,0,1,1
+nan,nan,nan,tamil nadu,tn,0,1,0,1,1,1
+nan,nan,nan,jammu and kashmir,jk,1,1,1,0,1,1
+nan,nan,nan,delhi,dl,0,1,1,1,1,1
+nan,nan,nan,jammu and kashmir,jk,1,0,1,1,1,1
+nan,f,nan,telangana,tg,1,0,0,1,1,1
+nan,nan,nan,telangana,tg,0,1,1,1,1,1
+nan,nan,navi mumbai,maharashtra,mh,0,1,1,0,1,1
+nan,m,nan,gujarat,gj,1,0,1,1,1,1
+nan,nan,nan,maharashtra,mh,0,1,1,1,1,1
+21,m,nan,karnataka,ka,1,1,0,1,1,1
+nan,m,nan,gujarat,gj,0,1,1,0,1,1
+nan,nan,nan,jammu and kashmir,jk,0,1,1,1,1,1
+nan,nan,nan,andhra pradesh,ap,1,1,1,0,1,1
+nan,nan,nan,haryana,hr,0,1,1,0,1,1
+nan,nan,nan,maharashtra,mh,1,0,1,1,1,1
+65,m,ranni,kerala,kl,1,1,1,0,0,1
+nan,m,nan,tamil nadu,tn,0,1,1,0,1,1
+nan,nan,nan,delhi,dl,0,1,1,1,1,1
+nan,nan,nan,delhi,dl,1,0,0,1,1,1
+nan,nan,nan,maharashtra,mh,0,0,1,1,1,1
+nan,nan,nan,maharashtra,mh,1,0,1,1,1,1
+nan,nan,nan,maharashtra,mh,1,1,1,0,1,1
+nan,nan,nan,telangana,tg,1,1,1,0,1,1
+nan,nan,nan,maharashtra,mh,0,1,1,0,1,1
+nan,m,nan,tamil nadu,tn,0,1,1,0,1,1
+nan,nan,nan,madhya pradesh,mp,1,0,0,1,1,1
+nan,nan,nan,maharashtra,mh,1,1,1,0,1,1
+nan,nan,nan,rajasthan,rj,1,1,1,0,1,1
+nan,nan,nan,maharashtra,mh,0,1,1,0,1,1
+nan,nan,nan,delhi,dl,1,1,1,0,1,1
+nan,nan,nan,gujarat,gj,1,0,1,1,1,1
+nan,nan,nan,telangana,tg,1,0,1,1,1,1
+nan,nan,nan,maharashtra,mh,1,0,1,1,1,1
+nan,nan,nan,jammu and kashmir,jk,0,1,1,0,1,1
+nan,nan,nan,maharashtra,mh,0,1,1,1,1,1
+nan,nan,nan,rajasthan,rj,1,1,1,1,1,1
+nan,nan,nan,maharashtra,mh,0,1,1,0,1,1
+nan,nan,nan,madhya pradesh,mp,0,1,1,0,1,1
+nan,nan,nan,delhi,dl,1,1,1,1,1,1
+nan,nan,nan,maharashtra,mh,1,1,1,0,0,1
+nan,f,nan,tamil nadu,tn,0,1,1,0,1,1
+nan,nan,nan,rajasthan,rj,1,1,1,0,1,1
+nan,nan,nan,maharashtra,mh,0,1,1,1,1,1
+65,m,chennai,tamil nadu,tn,0,1,1,0,1,1
+nan,m,nan,tamil nadu,tn,0,0,1,1,1,1
+nan,nan,nan,punjab,pb,1,1,1,1,1,1
+nan,nan,nan,maharashtra,mh,1,1,1,0,1,1
+nan,nan,nan,delhi,dl,0,1,1,0,1,1
+nan,nan,nan,maharashtra,mh,0,1,1,1,1,1
+nan,nan,nan,madhya pradesh,mp,0,1,1,1,1,1
+24,m,vijayawada,andhra pradesh,ap,1,1,1,0,1,1
+nan,nan,nan,rajasthan,rj,0,1,1,1,1,1
+nan,nan,nan,west bengal,wb,1,1,1,1,1,1
+nan,nan,nan,madhya pradesh,mp,1,0,1,1,1,1
+nan,nan,nan,uttar pradesh,up,1,1,1,0,1,1
+nan,nan,nan,madhya pradesh,mp,1,0,1,1,1,1
+nan,nan,mira-bhayandar,maharashtra,mh,1,1,0,1,1,1
+nan,nan,nan,haryana,hr,0,1,1,0,1,1
+nan,nan,nan,maharashtra,mh,1,1,1,0,0,1
+nan,nan,nan,telangana,tg,1,1,1,0,1,1
+nan,nan,nan,maharashtra,mh,1,1,1,0,1,1
+65,nan,naugachia,bihar,br,1,0,1,1,1,1
+nan,f,nan,odisha,or,1,1,1,0,1,1
+nan,nan,nan,punjab,pb,1,1,1,0,1,1
+48,m,uthamapalayam,tamil nadu,tn,0,1,1,0,1,1
+nan,nan,nan,delhi,dl,0,0,1,1,1,1
+nan,nan,bhilwara,rajasthan,rj,0,0,1,1,1,1
+nan,nan,nan,telangana,tg,1,1,1,1,1,1
+nan,nan,nan,delhi,dl,1,1,1,1,1,1
+nan,nan,nan,madhya pradesh,mp,1,1,0,1,1,1
+nan,nan,nan,rajasthan,rj,1,0,0,1,1,1
+nan,nan,nan,maharashtra,mh,1,1,1,0,0,1
+nan,nan,nan,delhi,dl,0,1,1,0,1,1
+nan,nan,nan,maharashtra,mh,0,1,1,0,1,1
+nan,m,leh,ladakh,la,1,1,1,0,1,1
+nan,nan,nan,delhi,dl,0,1,1,0,1,1
+nan,nan,nan,telangana,tg,1,0,1,1,1,1
+nan,nan,nan,maharashtra,mh,0,1,1,0,1,1
+nan,m,nan,tamil nadu,tn,0,1,1,0,1,1
+nan,nan,nan,delhi,dl,0,1,1,1,1,1
+70,m,gauribidanur,karnataka,ka,1,1,1,0,1,1
+nan,m,nan,tamil nadu,tn,1,1,0,1,1,1
+nan,nan,nan,jammu and kashmir,jk,0,1,1,1,1,1
+nan,nan,nan,maharashtra,mh,0,1,1,1,1,1
+nan,nan,nan,maharashtra,mh,1,1,1,0,1,1
+nan,f,nan,tamil nadu,tn,0,0,1,1,1,1
+nan,f,nan,tamil nadu,tn,1,1,1,1,1,1
+nan,nan,nan,andaman and nicobar islands,an,0,1,1,1,1,1
+nan,nan,kolhapur rural,maharashtra,mh,0,1,0,1,1,1
+nan,nan,nan,maharashtra,mh,0,1,1,0,1,1
+nan,nan,nan,kerala,kl,0,1,0,1,1,1
+nan,nan,nan,telangana,tg,0,1,0,1,1,1
+nan,nan,nan,maharashtra,mh,0,0,1,1,1,1
+nan,m,nan,tamil nadu,tn,0,1,0,1,1,1
+nan,nan,nan,maharashtra,mh,1,1,1,0,1,1
+nan,m,nan,tamil nadu,tn,0,1,1,1,1,1
+nan,nan,nan,rajasthan,rj,1,0,1,1,1,1
+nan,nan,nan,maharashtra,mh,1,1,1,1,1,1
+nan,nan,nan,kerala,kl,0,1,0,1,1,1
+nan,nan,nan,delhi,dl,0,1,0,1,1,1
+nan,f,nan,tamil nadu,tn,0,0,1,1,1,1
+26,m,dugadda,uttarakhand,ut,1,1,1,0,1,1
+nan,nan,nan,madhya pradesh,mp,0,1,1,1,1,1
+80,f,nan,punjab,pb,0,1,1,0,1,1
+nan,nan,nan,kerala,kl,0,1,1,1,1,1
+nan,nan,nan,madhya pradesh,mp,0,1,1,1,1,1
+nan,m,nan,tamil nadu,tn,1,0,0,1,1,1
+nan,nan,nan,delhi,dl,0,1,1,1,1,1
+nan,m,nan,tamil nadu,tn,1,0,1,1,1,1
+nan,nan,nan,delhi,dl,0,1,1,1,1,1
+nan,nan,nan,maharashtra,mh,1,0,1,1,1,1
+nan,nan,nan,maharashtra,mh,0,1,1,0,1,1
+76,f,nan,tamil nadu,tn,0,1,1,1,1,1
+nan,nan,nan,delhi,dl,0,1,1,0,1,1
+nan,nan,nan,tamil nadu,tn,0,1,1,0,1,1
+nan,nan,nan,uttar pradesh,up,0,1,1,0,1,1
+nan,nan,nan,maharashtra,mh,1,1,1,0,1,1
+nan,nan,nan,delhi,dl,0,1,1,0,1,1
+nan,nan,ramganj,rajasthan,rj,0,1,1,1,1,1
+nan,f,nan,tamil nadu,tn,0,1,1,1,1,1
+nan,nan,nan,jammu and kashmir,jk,0,1,1,1,1,1
+nan,nan,nan,maharashtra,mh,1,1,1,0,1,1
+55,m,nan,gujarat,gj,0,1,1,1,1,1
+nan,m,nan,tamil nadu,tn,1,1,0,1,1,1
+nan,nan,nan,maharashtra,mh,1,1,1,0,1,1
+36,m,nan,andhra pradesh,ap,0,1,1,0,1,1
+39,m,pollachi,tamil nadu,tn,1,0,0,1,1,1
+nan,nan,nan,rajasthan,rj,0,1,1,1,1,1
+nan,nan,nan,delhi,dl,1,1,1,0,1,1
+nan,nan,nan,delhi,dl,1,1,1,0,0,1
+32,m,vengara,kerala,kl,1,0,0,1,1,1
+nan,nan,nan,rajasthan,rj,0,0,1,1,1,1
+nan,nan,nan,rajasthan,rj,1,0,1,1,1,1
+nan,nan,nan,punjab,pb,1,1,1,0,0,1
+nan,nan,nan,west bengal,wb,0,1,1,0,1,1
+nan,m,nizamuddin area,delhi,dl,1,1,1,0,1,1
+nan,nan,nan,telangana,tg,1,1,0,1,1,1
+22,m,ashok vihar,delhi,dl,1,1,1,0,1,1
+nan,nan,nan,uttar pradesh,up,1,1,1,0,0,1
+nan,m,nan,tamil nadu,tn,0,1,1,0,1,1
+nan,nan,nan,delhi,dl,1,1,1,0,1,1
+27,f,vadodara,gujarat,gj,0,1,0,1,1,1
+nan,nan,nan,maharashtra,mh,1,1,1,0,1,1
+nan,nan,nan,delhi,dl,1,1,1,1,1,1
+nan,nan,nan,delhi,dl,1,1,1,0,1,1
+nan,m,nan,tamil nadu,tn,1,1,1,0,1,1
+35,m,nan,karnataka,ka,1,1,1,1,1,1
+nan,nan,nan,maharashtra,mh,0,1,0,1,1,1
+nan,m,kochi,kerala,kl,1,1,1,0,1,1
